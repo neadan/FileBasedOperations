@@ -1,0 +1,4 @@
+Daniel|50|Failed
+Sarah|80|Passed
+Chris|50|Failed
+Jim|99

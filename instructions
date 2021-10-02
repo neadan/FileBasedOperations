@@ -1,0 +1,4 @@
+-Create a json file and save it in project (Google json wiki)
+-Load the json into memory
+-Change the home phone number to whatever you want (your json is now a dictionary)
+-Save the json file back on the disk as person_edited.json
