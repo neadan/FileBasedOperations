@@ -7,7 +7,7 @@ def read_file_bad():
 
 def read_file_good():
     # with open(r'C:\Users\Tiberiu\PycharmProjects\FileBasedOperations\files\iconic_short_story.txt', 'r') as story_file:
-    with open('/files\\iconic_short_story.txt', 'r') as story_file:
+    with open('/files/iconic_short_story.txt', 'r') as story_file:
         story = story_file.read() # returns a string
     return story
 
